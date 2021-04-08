@@ -1,1 +1,1 @@
-# gallery
+https://asifuix.github.io/gallery/
